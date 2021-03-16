@@ -9,3 +9,5 @@ def pab():
 pab()
 
 
+podscet_monet_i_ih_ves(100,2.5,1)
+podscet_monet_i_ih_ves(200,5,2)
